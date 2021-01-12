@@ -1,0 +1,4 @@
+CF: https://codeforces.com/blog/entry/53341
+
+C++ variable size:	https://docs.microsoft.com/en-us/cpp/cpp/data-type-ranges?view=msvc-160
+
