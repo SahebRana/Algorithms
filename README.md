@@ -3,7 +3,7 @@
 ### Index
 
 1. [Binary Search](BinarySearch)
-2. Two Pointers
+2. [Two Pointers](TwoPointers)
 3. Sliding Window
 4. Breadth-First Search
 5. Depth-First Search
