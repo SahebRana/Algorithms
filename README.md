@@ -4,7 +4,7 @@
 
 1. [Binary Search](BinarySearch)
 2. [Two Pointers](TwoPointers)
-3. Sliding Window
+3. [Sliding Window](SlidingWindow)
 4. Breadth-First Search
 5. Depth-First Search
 6. Recursion / Backtracking
