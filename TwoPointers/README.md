@@ -137,3 +137,8 @@ class Solution:
                 start += 1
             cur += 1
 ```
+## Leetcode 167: [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
+
+## Leetcode 344: [Reverse String](https://leetcode.com/problems/reverse-string/)
+
+## Leetcode 557: [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/)
