@@ -7,7 +7,7 @@
 3. [Sliding Window](SlidingWindow)
 4. Breadth-First Search
 5. Depth-First Search
-6. Recursion / Backtracking
+6. [Recursion / Backtracking](Backtracking)
 7. Dynamic Programming
 8. Bit Manipulation
 
